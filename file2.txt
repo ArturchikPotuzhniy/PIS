@@ -1,1 +1,2 @@
 This is file 2 for QA branch
+Updated QA notes in file2
